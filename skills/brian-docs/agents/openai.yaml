@@ -1,0 +1,4 @@
+interface:
+  display_name: "brian-docs"
+  short_description: "간결한 문장과 명확한 구조로 문서를 쓰고 중복과 참조를 정리합니다."
+  default_prompt: "$brian-docs를 사용해 문서를 간결하게 다듬고, 섹션 구성과 공통 내용의 참조를 정리해 주세요."
